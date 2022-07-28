@@ -24,7 +24,7 @@ img {
   gap: 52px;
 }
 
-.thing {
+.item {
   display: flex;
   width: 200px;
   flex: auto;
